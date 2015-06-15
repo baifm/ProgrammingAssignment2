@@ -32,5 +32,3 @@ cacheSolve <- function(x, ...) {
     x$set.inv.matrix(m)
     m
 }
-
-
